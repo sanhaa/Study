@@ -38,10 +38,17 @@
 - ex. Windows: FAT16, FAT32, NTFS
 - ex. Linux: nfs, swap, Ext3, Ext4
 
+#### 디스크 vs. 파티션 .vs 볼륨
+- `디스크`는 `파티션`으로 분할 될 수 있음
+- 특정 **파일시스템으로 포맷**하여 저장 공간의 의미를 가지면 `볼륨`
+- ex. USB 장치를 설정할 때  `FAT32, NTFS으로 포맷` 등의 옵션을 볼 수 있음
 
-![image](https://user-images.githubusercontent.com/26539591/149091052-8f41225b-482e-4844-804b-865853222300.png)
+  ![image](https://user-images.githubusercontent.com/26539591/149094765-9ce95171-2b05-4056-b98a-01ea1fbb7cc9.png)
+
+- 파티션은 4개이지만, 그 중 두 개의 파티션만 (파티션 1, 3만) 볼륨으로 인식됨
 
 
+----- 
 ### 참고자료
 - [우분투 삭제 방법](https://jimnong.tistory.com/677#google_vignette)
 - [BIOS 부팅 구조](http://usinan.blogspot.com/2018/01/bios-boot.html)
