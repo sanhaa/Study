@@ -74,10 +74,13 @@ BIOS > 부팅 디스크의 MBR > 활성 파티션의 부트 섹터 > 부트 매�
     - \EFI\Microsoft
     - \EFI\ubuntu
 
-<br>
+<br>  
+
 ----- 
+
 ### 참고자료
 - [우분투 삭제 방법](https://jimnong.tistory.com/677#google_vignette)
 - [BIOS 부팅 구조](http://usinan.blogspot.com/2018/01/bios-boot.html)
 - [EFI 용어 설명](http://www.ktword.co.kr/test/view/view.php?m_temp1=4858)
 - [디스크 vs. 파티션 vs. 볼륨](https://pearlluck.tistory.com/179)
+- [UEFI 부팅](http://usinan.blogspot.com/2018/01/uefi-boot.html)
