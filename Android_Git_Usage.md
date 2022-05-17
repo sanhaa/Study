@@ -23,10 +23,12 @@
 3. APK 바로 다운로드 받기
     - 다운로드: https://f-droid.org/en/packages/com.termux/  
     - Download F-Droid 말고 하단 v0.118.0 버전의 Download APK 클릭
-    - ![사진]()
+    - ![Screenshot_20220517-121636_Chrome](https://user-images.githubusercontent.com/26539591/168723805-37d17158-9605-409e-87ee-4e8bad2ca996.jpg)
 
 2, 3번 방법 모두 apk 파일을 직접 안드로이드 내에 설치하는 거라 `출처를 알 수 없는 앱 설치` 설정 필요
-![사진]()
+![Screenshot_20220517-121400_Settings](https://user-images.githubusercontent.com/26539591/168723799-c7d2f682-9382-487f-9246-50ebd7fb4827.jpg)
+
+
 
 termux github: https://github.com/termux/termux-app#installation
 
